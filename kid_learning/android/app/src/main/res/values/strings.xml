@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kid_learning</string>
+    <string name="facebook_app_id">3253804661574356</string>
+    <string name="fb_login_protocol_scheme">fb3253804661574356</string>
+    <string name="facebook_client_token">3b407ac1835f4f725d4b37d709891ccd</string>
+</resources>
